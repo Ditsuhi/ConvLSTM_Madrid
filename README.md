@@ -2,3 +2,5 @@
 
 
 Air pollution reduction is the focus of attention of both scientists and governments. Among the most dangerous pollutants are particulate matter (PM), ozone (O3), nitrogen dioxide (NO2) and sulphur dioxide (SO2). Having information about pollution in advance can help decision-makers to apply control measurements with the aim to reduce pollution. This work concentrates on the prediction of nitrogen dioxide in Madrid city. As a machine learning technologies, ConvLSTM was applied, which has been validated to perform spatiotemporal analysis with higher accuracy. The analysis was carried out for the periods January to June 2019 and 2020 with time lags of 12-hour and 24-hour. The Root Mean Square Error was taken as an evaluation metric, and the results show that the inclusion of meteorological data gives better results, which can be explained by the strong correlation that exists between the two datasets. In terms of time lags, the 12-hour results outperformed the 24-hour results due to the accumulation of errors.
+
+The dataset is available in the Zenodo repository with the following DOI:https://doi.org/10.5281/zenodo.4734952
